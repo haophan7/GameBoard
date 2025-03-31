@@ -157,12 +157,145 @@ Bộ trò chơi ca rô Connect 4 đòi hỏi tư duy nhiều hơn trò ca rô tr
 Bé cần tạo được 4 quân cờ liên tiếp theo hàng ngang, hàng dọc hoặc chéo để giành chiến thắng.
 Trò chơi còn tăng tính tương tác với mọi người khi chơi cùng bạn bè, người thân bởi trò chơi này cần có 2 người chơi.
 - Cờ Lật:
+BỘ CỜ OTHELLO:
+Bộ cờ Othello gồm quân cờ và bàn cờ.
+Bàn cờ được chia lưới ô vuông 8x8 còn những quân cờ có hình dạng giống đồng xu có hai mặt màu nhạt và sẫm (có thể là màu trắng hoặc đen).
+CÁCH CHƠI CỜ OTHELLO:
+Trong trò chơi này, người đi trước sẽ được mặc định là người chơi quân đen. Người chơi lần lượt chơi xen kẽ nhau theo thứ tự bằng các nước đi hợp lệ.
+Nếu một người chơi đi sai nước cờ, người chơi đó sẽ bị mất lượt và lượt chuyển sang cho đối thủ. Và người chơi cũng không thể tự bỏ lượt của mình bạn nhé!
+Nếu cả hai người chơi đều không thể đi cờ được nữa , trò chơi sẽ kết thúc.
+Cách đi hợp lệ:
+Một nước di chuyển được thực hiện bằng cách đặt một quân màu của người chơi lên bảng ở vị trí sao cho tạo nên ít nhất một hàng ngang hoặc dọc, hoặc chéo giữa quân mới này với các quân cũ và ở giữa các quân này có một hay nhiều quân của đối thủ.
+Sau khi đặt quân xong, người chơi lật tất cả các quân màu của đối thủ nằm trên đường gióng giữa quân mới và quân cũ, biến chúng thành quân của mình. Tất cả các quân cờ của đối thủ đều phải được lật dù người chơi có muốn hay không.
+Nếu người chơi không thể đặt và lật quân nào, người chơi sẽ bị mất lượt và chuyển sang lượt của đối thủ.
+Lưu ý:
+Một quân cờ đã được đặt trên bàn cờ thì không được phép di chuyển nữa.
+Khi một người chơi hết quân cờ, nhưng vẫn có cơ hội đặt và lật các quân của đối thủ, thì đối thủ phải đưa cho người chơi một quân cờ của mình để sử dụng.
+Kết thúc trò chơi:
+Trò chơi kết thúc khi cả hai người chơi đều không thể thực hiện nước cờ hợp lệ nào nữa. Điều này xảy ra khi các ô trên bàn cờ đã kín hết quân hay khi một bên chơi không còn quân nào trên bàn cờ. Khi đó, người chơi nào có nhiều quân trên bàn cờ hơn là người thắng cuộc.
 - Cờ Gánh:
+BỘ CỜ GÁNH:
+Bàn cờ:
+Trong trò chơi cờ gánh, bàn cơ là một tấm bề mặt phẳng chia thành 25 ô bằng lưới vuông 4x4. Các đường kẻ ngang, đứng và đường chéo trên bàn cờ được sử dụng để xác định các đường di chuyển cho các quân cờ. Khi bắt đầu trò chơi người chơi bố trí các quân cờ tại các ô ở rìa ngoài của bàn cờ.
+Quân cờ:
+Quân cờ gánh bao gồm 16 quân, chia thành 2 màu (hoặc 2 loại theo hình dáng, đặc điểm). Tương tự, mỗi màu sẽ có 8 quân đại diện cho 2 người chơi. Khi bắt đầu trò chơi, các quân cờ được đặt như sau:
+Mỗi người chơi đặt một quân cờ ở hàng thứ 3, ngoài cùng bên trái của bàn cờ.
+Tiếp theo, mỗi người đặt hai quân cờ tại hai điểm ở ngoài cùng của hàng thứ 2.
+Cuối cùng, mỗi người chơi đặt năm quân cờ còn lại ở năm giao điểm ở hàng cuối cùng của bàn cờ ở phía mình.
+CÁCH CHƠI CỜ GÁNH:
+Khi tham gia trò chơi, mỗi người chơi được chia 8 quân cờ, có màu sắc (hoặc nhận dạng) khác với quân cờ của đối phương. Mỗi người chơi sẽ thực hiện việc di chuyển quân cờ của mình đến một trong những giao điểm lân cận trên bàn cờ vuông. Di chuyển có thể theo đường ngang, đứng hoặc đường chéo, như đã được thể hiện trên bàn cờ. Điều quan trọng là các điểm đó phải còn trống, tức là không có quân cờ nào ở đó.
+Mục tiêu của trò chơi là người chơi sẽ phải đổi hết màu (hoặc nhận dạng) của các quân cờ đối thủ thành màu và nhận dạng quân cờ của mình, khiến họ không còn quân cờ nào để đi.
+Trò chơi sẽ kết thúc khi một trong hai người chơi không còn quân cờ nào để di chuyển. Người chiến thắng sẽ là người nắm trong tay 16 quân cờ.
+Các trường hợp sẽ gặp khi chơi cờ gánh:
+Gánh:
+Khi một người chơi di chuyển một quân cờ của họ đến vị trí giữa hai quân cờ của đối phương (và hai quân của đối phương này nằm hai bên, tạo thành một đường thẳng), thì hai quân cờ của đối phương tại những vị trí này được coi là bị "gánh" và sau đó được thay đổi màu sắc hoặc các đặc điểm nhận dạng.
+Điều quan trọng là người chơi phải chủ động và thực hiện nước đi bằng cách di chuyển quân cờ của họ vào giữa hai quân cờ của đối phương, và không thể thực hiện nước đi "gánh" trong lúc đối phương đang thực hiện lượt đi của họ.
+Vây / Chẹt:
+Nếu quân cờ của một người chơi bao quanh hoàn toàn một quân cờ của đối phương, làm cho quân cờ của đối phương không còn khả năng di chuyển, thì quân cờ này của đối phương sẽ bị coi là bị "Vây" hay "Chẹt" (nghĩa là không còn những ô trống xung quanh).
+Sau đó sẽ bị thay đổi màu sắc hoặc các đặc điểm khác để biểu thị rằng nó thuộc về người chơi đang thực hiện nước đi này.
+Thế cờ "Mở":
+Trong quá trình chơi, khi muốn "gánh" quân cờ của đối phương, người chơi có khả năng thực hiện một nước đi nâng cao hơn có thể gánh cùng lúc 4 hoặc 6 quân của đối phương. Nước đi này thường được gọi là "chầu" 4 hoặc "chầu" 6.
+Trong một số trường hợp, người chơi có thể tự ý tạo ra một tình huống cờ để thúc đẩy quân của đối phương di chuyển vào giữa bàn cờ để sau đó có thể "gánh" lại quân của họ. Mục tiêu của nước đi này có thể là để thực hiện "chầu" 4 hoặc "chầu" 6 với quân đối phương, hoặc để tạo ra các nước đi xa hơn cho các quân cờ khác. Nước đi như vậy thường được gọi là nước đi "mở".
+Khi người chơi tự tạo tình huống "mở" để chủ động cho đối phương "gánh" quân của mình, thì khi tới lượt của đối phương, họ bị buộc phải thực hiện nước đi "gánh" như đã được "gài" bởi người chơi khác. Đây được xem là một chiến thuật khá phức tạp nhưng cực kỳ thú vị khi đã làm chủ được đấy nhé!
 - Cờ Thú:
-- Cờ Hoang Dã: 
+BỘ TRÒ CHƠI CỜ THÚ:
+Bàn chơi:
+Một bàn cờ thú gồm 7 cột và 9 hàng ( 63 ô vuông) được in trên khổ giấy hình chữ nhật. Bàn cờ được chia làm hai phần bằng nhau tượng trưng cho vùng đất của hai người chơi. Trên bàn cờ sẽ có những ô vuông có vị trí đặc biệt:
+Hang: mỗi người chơi sẽ có 1 hang được đặt trung tâm của hàng đầu tiên ở bàn chơi phía mình. Đây là vị trí mục tiêu mà đối thủ sẽ nhắm đến để có thể giành chiến thắng, vì thế bạn cần phải chú ý vị trí này nhé.
+Bẫy: mỗi đội sẽ có 3 cái bẫy được đặt phía trên và hai bên của hang.
+Khu vực Sông: nằm ở trung tâm bàn cờ với diện tích hình chữ nhật 2 x 3 (6 ô vuông).
+Quân cờ và cấp bậc:
+Quân cờ có 2 màu là Xanh và Đỏ đại diện cho hai người chơi. Mỗi người chơi sẽ sở hữu 8 quân cờ, mỗi quân cờ sẽ đại diện cho một loài động vật có cấp bậc sức mạnh khác nhau và được gắn hình ảnh động vật trên quân cờ đó. Cấp bậc sức mạnh của các loài động vật như sau: Voi ( Elephant) - Bậc 8, Sư tử (Lion) - Bậc 7, Hổ (Tiger) - Bậc 6, Báo ( Leopard ) - Bậc 5, Chó ( Dog) - Bậc 4, Sói ( Wolf) - Bậc 3, Mèo (Cat) - Bậc 2 và Chuột ( Rat) - Bậc 1.
+Vị trí quân cờ:
+Trước khi bước vào chơi cờ bạn cần sắp xếp các quân cờ vào vị trí trên bàn cờ. Trên bàn có sẽ có sẵn vị trí các quân cờ được ghi tên sẵn bạn chỉ cần đặt quân cờ vào đúng vị trí đó là được.
+CÁCH CHƠI CỜ THÚ:
+Cách giành chiến thắng:
+Mục tiêu chiến thắng của cờ thú là bạn phải đưa được một quân cờ bất kỳ của mình vào hang đối thủ hoặc ăn tất cả các quân cờ của đối thủ.
+Cách di chuyển các quân cờ:
+Người chơi sẽ chọn quân Xanh di chuyển trước và như thế cứ luân phiên giữa hai người chơi. Đến lượt chơi của mình người chơi sẽ di chuyển một quân cờ. Tất cả các quân cờ sẽ di chuyển theo một quy tắc đó là chỉ được di chuyển tiến hoặc lùi 1 ô, sang phải hoặc sang trái 1 ô và tuyệt đối không được di chuyển chéo ô. Ngoài ra người chơi còn phải tuân thủ các nguyên tắc di chuyển như sau:
+Chuột là động vật duy nhất có thể đi vào vùng Sông.
+Sư tử và Hổ có thể nhảy qua Sông theo chiều ngang hoặc dọc bằng cách nhảy từ một hình vuông bên bờ nước bên này sang hình vuông ở đối diện ở bờ bên kia. Nếu hình vuông này đang chứa một loài động vật bằng và thấp hạng hơn, Sư tử và Hổ có thể ăn quân cờ đó. Động tác nhảy này sẽ bị chặn (không được phép) nếu có một quân Chuột đang đứng ở ô vuông Sông trên đường nhảy này.
+Đối với Bẫy:
+Người chơi có thể nhảy ra vào các ô Bẫy của mình mà không có vấn đề gì xảy ra. Tuy nhiên, nếu một người chơi có quân cờ nhảy vào ô Bẫy của đối thủ, quân cờ này sẽ bị coi là mắc bẫy, mất hết toàn bộ sức mạnh về cấp 0 và có thể bị bắt bởi bất cứ một quân cờ nào. Cấp bậc của quân cờ sẽ được khôi phục khi thoát khỏi ô Bẫy.
+Đối với Hang:
+Người chơi không được di chuyển vào Hang của mình.
+Người chơi nào di chuyển được bất kỳ quân nào vào Hang của đối thủ thì sẽ là người chiến thắng.
+Cách bắt quân, ăn quân:
+Mỗi quân cờ sẽ được ăn hoặc bắt quân cờ đối thủ khi di chuyển đúng luật và quân cờ “bắt” phải có thứ hạng bằng hoặc cao hơn quân cờ “bị bắt”. Lúc này quân cờ “bị bắt” sẽ bị loại khỏi vị trí của nó trên bàn cờ và được thay thế bằng quân cờ “bắt” nó.
+Tuy nhiên cũng có 1 số trường hợp ngoại lệ như sau:
+Chuột có cấp bật thấp nhất nhưng lại có thể ăn hoặc bắt 1 con Voi trên vùng đất. Điều này được giải thích vì Chuột “chạy vào tai và gặm nhấm não của Voi”.
+Mỗi quân Chuột ở dưới nước là bất khả xâm khỏi bởi bất kỳ quân cờ nào ở trên cạn dù cấp bật có cao hơn. Vì vậy chỉ có những quân Chuột dưới nước thì mới có thể ăn nhau.
+Một quân cờ đi vào một trong các ô bẫy của đối thủ sẽ bị giảm cấp bậc xuống 0. Do đó, quân bị mắc bẫy có thể bị bên đối thủ bắt bằng bất kỳ quân cờ nào, bất kể thứ hạng. Quân cờ bị mắc bẫy sẽ được khôi phục thứ hạng bình thường khi nó thoát ra khỏi ô bẫy của đối thủ.
+- Cờ Hoang Dã:
+BÀN CỜ HOANG DÃ:
+Bàn cờ có kích cỡ 7×7 tạo nên sự cân đối, đối xứng trên bàn cờ, một phần khác thì tác giả cũng rất yêu thích số 7. Cờ hoang dã có thể được xem như là màn kết hợp hoàn hảo giữa cờ vua và cờ thú, tạo nên sự hòa hợp giữa con người với thế giới hoang dã bên ngoài. Trên bàn cờ sẽ có những ô vuông có vị trí đặc biệt:
+VỰC HẲM: mỗi bên sẽ có 3 cái vực hẳm được đặt phía trên và hai bên của Vua.
+QUÂN CỜ:
+Quân cờ có 2 màu là Xanh và Đỏ đại diện cho hai người chơi. Mỗi người chơi sẽ sở hữu 5 quân cờ, bao gồm 1 Vua, 2 Báo và 2 Chó.
+Vị trí quân cờ:
+Trước khi bước vào chơi cờ bạn cần sắp xếp các quân cờ vào vị trí trên bàn cờ. Trên bàn có sẽ có sẵn vị trí các quân cờ được ghi tên sẵn bạn chỉ cần đặt quân cờ vào đúng vị trí đó là được.
+CÁCH CHƠI CỜ HOANG DÃ:
+Mỗi người ( ở đây ám chỉ Vua ) hoặc thú ( chỉ con Báo và con Chó ) chỉ được phép di chuyển 1 ô: ngang, dọc hoặc chéo tùy ý.
+Tất cả người hoặc thú không được phép đi vào ô " VỰC HẲM ".
+Cách ăn quân:
+Báo ăn Vua, Báo ăn Chó.
+Vua ăn Báo, Vua ăn Chó.
+Chó ăn Vua. ( Lưu ý: Chó không ăn được Báo ).
+Vua không ăn Vua, Báo không ăn Báo, Chó không ăn Chó.
+ĐẶC BIỆT: người hoặc thú bên mình không được phép ăn người hoặc thú bên mình.
+Khi bên nào ăn được "VUA" của đối thủ hoặc đối thủ tự động xin thua thì xem như là giành được chiến thắng trong ván cờ đó.
 
 ## Hình ảnh Demo:
-![Screenshot 2024-05-18 230852](https://github.com/haophan7/TranslateVideoYoutube/assets/106468186/cbd760a4-aa0c-45f7-a2e4-b31da244d7ce)
+Đầu tiên, khi mọi người chạy chương trình ở file trangchu.py thì nó sẽ hiển thị giao diện như hình dưới đây:
+![image](https://github.com/user-attachments/assets/4ea0b3f5-6ba9-43e8-9ddc-634baf9a8c09)
+
+Mọi người sẽ bấm chọn vào button khách thì ứng dụng sẽ đẩy người dùng đến cửa sổ giao diện đăng ký như hình bên dưới:
+![image](https://github.com/user-attachments/assets/8be06a35-ac1d-4af0-910b-5a67f71b9c4b)
+
+Tại đây, mọi người sẽ điền đầy đủ thông tin vào các trường phù hợp, tích vào ô đồng ý với điều khoản và chính sách, bấm nút Signup để tiến hành đăng ký tài khoản.
+Khi đăng ký tài khoản xong rồi, mọi người bấm vào nút Log in để vào cửa sổ giao diện đăng nhập như hình bên dưới:
+![image](https://github.com/user-attachments/assets/4f74a427-f274-49fe-aa08-96cab4b657f3)
+
+Tại giao diện đăng nhập này, mọi người điền vào thông tin username và password mà vừa đăng ký trước đó, bấm nút Login để đăng nhập vào ứng dụng trò chơi cờ bàn.
+
+Khi mọi người đã đăng nhập thành công thì đây chính là giao diện chính của trò chơi, nơi mọi người tha hồ chơi cờ giải trí:
+![image](https://github.com/user-attachments/assets/5e98ccbd-ff30-4fdf-b129-e083558b2fd4)
+
+Trong ứng dụng trò chơi cờ bàn này có tất cả 11 loại cờ, các loại cờ đã được trình bày chi tiết ở phần đầu rồi.
+Giờ thì mình mời mọi người cùng xem giao diện trò chơi cờ bàn của mình nào!^^
+
+Game cờ vây
+![image](https://github.com/user-attachments/assets/c09f88a9-fb0e-43bc-b1dc-7ae0fa7a5406)
+
+Game cờ vua
+![image](https://github.com/user-attachments/assets/66f4ecd5-bfbd-4076-9276-4556e04224b1)
+
+Game cờ tướng
+![image](https://github.com/user-attachments/assets/757b6d73-ec19-4710-85b1-8ffd37408744)
+
+Game cờ shogi
+![image](https://github.com/user-attachments/assets/e0201196-2a91-4b25-a114-a8e6676de342)
+
+Game cờ connect 6
+![image](https://github.com/user-attachments/assets/05ded027-9f5b-4fc3-a08d-3e59b7f2a938)
+
+Game cờ caro
+![image](https://github.com/user-attachments/assets/e074d811-7ec0-4a0e-92ae-b8eb5219e84e)
+
+Game cờ connect 4
+![image](https://github.com/user-attachments/assets/727dd7cd-3517-4205-8b48-86c182fd9989)
+
+Game cờ lật
+![image](https://github.com/user-attachments/assets/0c004e24-3ac6-462e-8f7e-849700732d4f)
+
+Game cờ gánh
+![image](https://github.com/user-attachments/assets/f95a060f-0fc5-4634-a234-f9f3b59993d6)
+
+Game cờ thú
+![image](https://github.com/user-attachments/assets/eabb1c03-1bd5-4682-b6d9-af9da8d82c6c)
+
+Game cờ hoang dã
+![image](https://github.com/user-attachments/assets/9af66beb-3282-4aff-9f70-9cd68cb6c81d)
 
 ## Build source code:
 Thông tin về source code:
